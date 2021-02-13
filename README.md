@@ -1,1 +1,2 @@
-# global-green
+Global-green Odoo modules
+=========================
